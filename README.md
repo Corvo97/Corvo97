@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Corvo97
+- 👋 Hi, I’m @Corvo97!
+  
 Passionate self-taught full stack developer, diving into code since I was 12.
 I thrive on challenges and love learning new things. With a creative mindset,
 I enjoy turning obstacles into opportunities for growth and innovation.
