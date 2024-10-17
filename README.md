@@ -1,4 +1,6 @@
-👋 Hi, I’m @Corvo97!
+<img src="https://i.imgur.com/tmdFxwQ.png" width="200" height="200"></a> 
+
+## Hi, I’m @Corvo97! 👋
   
 Passionate self-taught full stack developer, diving into code since I was 12.
 I thrive on challenges and love learning new things. With a creative mindset,
