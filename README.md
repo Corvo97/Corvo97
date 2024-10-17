@@ -6,7 +6,9 @@ I enjoy turning obstacles into opportunities for growth and innovation.
 Always evolving, I'm excited to see what’s next! 🚀
 
 🧑‍💻 Full Stack Developer
+
 📈 Systems Analyst
+
 📊 Data Science Student
 
 <!---
