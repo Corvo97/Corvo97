@@ -8,11 +8,9 @@ I enjoy turning obstacles into opportunities for growth and innovation.
 Always evolving, I'm excited to see what’s next! 🚀
 
 
-🧑‍💻 Full Stack Developer
+🧑‍💻 Full Stack Developer | 📈 Systems Analyst | 📊 Data Science Student
 
-📈 Systems Analyst
 
-📊 Data Science Student
 
 <!---
 Corvo97/Corvo97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
