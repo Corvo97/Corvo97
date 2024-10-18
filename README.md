@@ -1,16 +1,22 @@
-<img src="https://i.imgur.com/tmdFxwQ.png" width="200" height="200"></a> 
-
-## Hi, I’m @Corvo97! 👋
+<div align="center">
+  <img src="https://i.imgur.com/M7BWDIg.png" width="300"></a> 
   
-Passionate self-taught full stack developer, diving into code since I was 12.
-I thrive on challenges and love learning new things. With a creative mindset,
-I enjoy turning obstacles into opportunities for growth and innovation.
-Always evolving, I'm excited to see what’s next! 🚀
+  <h1>Hi, I’m @Corvo97! 👋</h1>
+    
+  Passionate self-taught full stack developer, diving into code since I was 12.
+  I thrive on challenges and love learning new things. With a creative mindset,
+  I enjoy turning obstacles into opportunities for growth and innovation.
+  Always evolving, I'm excited to see what’s next! 🚀
 
-
-🧑‍💻 Full Stack Developer | 📈 Systems Analyst | 📊 Data Science Student
-
-
+  <h4>🧑‍💻 Full Stack Developer | 📈 Systems Analyst | 📊 Data Science Student</h4>
+  </br>
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="50">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="50">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" width="50">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="50">&nbsp; &nbsp;
+</div>
 
 <!---
 Corvo97/Corvo97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
