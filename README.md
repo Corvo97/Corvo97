@@ -11,12 +11,15 @@
   </br>
   <h4>🧑‍💻 Full Stack Developer | 📈 Systems Analyst | 📊 Data Science Student</h4>
   </br>
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="50">&nbsp; &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50">&nbsp; &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="50">&nbsp; &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" width="50">&nbsp; &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50">&nbsp; &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="50">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="30">&nbsp; &nbsp;
 </div>
 
 <!---
