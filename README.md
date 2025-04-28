@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="30">&nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="30">&nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://i.imgur.com/saLprJD.png" width="30">&nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" width="30">&nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" width="30">&nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="30">&nbsp; &nbsp;
