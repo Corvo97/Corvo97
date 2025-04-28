@@ -22,6 +22,7 @@
   <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" width="30">&nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="30">&nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" width="30">&nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" width="30">&nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="30">&nbsp; &nbsp;
 </div>
 
