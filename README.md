@@ -20,7 +20,7 @@
 
 - 🧠 [AI Toolbox](https://github.com/Corvo97/ai-toolbox): Utility scripts for NLP and computer vision tasks using Python.
 - 📊 [Dashboard LiveStats](https://github.com/Corvo97/livestats): Real-time monitoring dashboard with WebSockets and Chart.js.
-- ⚙️ [Automation Scripts](https://github.com/Corvo97/automation-scripts): A collection of personal scripts to automate daily tasks.
+- 🕹️ [MouseBatteryCLI – HID Battery Status for Deluxe M900 PRO](https://github.com/Corvo97/automation-scripts): Python CLI tool that reads the battery level and charging state from the Deluxe M900 PRO gaming mouse via HID protocol. Built without vendor SDKs, using reverse engineering techniques.
 
 ---
 
@@ -58,7 +58,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-corvo)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail&logoColor=white)](mailto:097.cuervo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://devcorvo.dev)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://devcorvo.dev)-->
 
 ---
 
