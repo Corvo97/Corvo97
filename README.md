@@ -18,8 +18,8 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [AI Toolbox](https://github.com/Corvo97/ai-toolbox): Utility scripts for NLP and computer vision tasks using Python.
-- 📊 [Dashboard LiveStats](https://github.com/Corvo97/livestats): Real-time monitoring dashboard with WebSockets and Chart.js.
+<!--- 🧠 [AI Toolbox](https://github.com/Corvo97/ai-toolbox): Utility scripts for NLP and computer vision tasks using Python.-->
+<!--- 📊 [Dashboard LiveStats](https://github.com/Corvo97/livestats): Real-time monitoring dashboard with WebSockets and Chart.js.-->
 - 🕹️ [MouseBattery – HID Battery Status for Delux M900 PRO](https://github.com/Corvo97/MouseBattery-HID-Battery-Status-for-Delux-M900-PRO): Python and Bash tool that reads the battery level and charging state from the Delux M900 PRO gaming mouse via HID protocol. Built without vendor SDKs, using reverse engineering techniques.
 
 ---
